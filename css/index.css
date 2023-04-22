@@ -1,0 +1,301 @@
+.navbar-brand b {
+    color: white;
+    font-size: 20px;
+}
+
+.AQ1aq12 .btn {
+    background-color: rgb(130, 180, 64);
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    font-size: larger;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(62, 205, 219);
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show>.nav-link {
+    color: rgb(62, 205, 219);
+    font-size: larger;
+}
+
+.AQ12Q2 {
+    color: rgb(62, 205, 219);
+    font-size: 30px;
+}
+
+.swqQA12 .btn {
+    border-radius: 40px;
+    color: white;
+    width: 175px;
+    font-size: 17px;
+    background-color: #3ecddb;
+    box-shadow: 0 10px 24px 1px rgb(62 205 219 / 30%);
+}
+
+.swqQA12 .btn:hover {
+    background-color: rgb(250, 54, 104);
+    border-radius: 40px;
+    color: white;
+    box-shadow: 0 0 7px 0 #0dcaf0;
+    width: 175px;
+    font-size: 17px;
+    border-width: 0px;
+    fill: white;
+}
+
+.a1Qaq1 {
+    font-size: 50px;
+}
+
+.AQ1s {
+    margin-top: 144px;
+    background-color: whitesmoke;
+}
+
+.aa1qw1 .btn {
+    border-radius: 40px;
+    color: white;
+    width: 175px;
+    font-size: 17px;
+}
+
+.aa1qw2 .btn {
+    background-color: rgb(226, 227, 230);
+    border-radius: 40px;
+    color: rgb(140, 115, 119);
+    width: 150px;
+    font-size: 17px;
+}
+
+.aa1qw2 .btn:hover {
+    background-color: rgb(250, 54, 104);
+    color: white;
+}
+
+.aa1qw1 .btn:hover {
+    background-color: rgb(250, 54, 104);
+}
+
+.QA12aq {
+    font-family: cardo, Sans-seri;
+    font-size: 37px;
+    margin-bottom: -10px;
+}
+
+.fa-spa {
+    font-size: 30px;
+    color: rgb(16, 167, 246);
+}
+
+.svg {
+    width: 80px;
+    fill: rgb(250, 54, 104);
+}
+
+.svg:hover {
+    fill: rgb(62, 205, 219);
+}
+
+.AQ1sw2X {
+    border: none;
+    border-radius: 10px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.AQ1sw2X:hover {
+    box-shadow: rgb(136, 205, 243) 0px 8px 17px;
+}
+
+.Qaq1Q {
+    border-radius: 10px;
+}
+
+/************** counter *************/
+.counter-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: 30px 50px;
+}
+
+.counter {
+    font-size: 60px;
+    margin-top: 10px;
+}
+
+.counter-number {
+    color: rgb(250, 54, 104);
+}
+
+@media (max-width: 580px) {
+    body {
+        flex-direction: column;
+    }
+}
+
+/************** counter end*************/
+
+.QAw1fc .btn {
+    background-color: rgb(250, 54, 104);
+    color: white;
+    width: 210px;
+    font-size: 18px;
+    border-radius: 50px;
+}
+
+.AQ12Zaq {
+    border: none;
+}
+
+.card-img-top {
+    border-radius: 10px;
+}
+
+.ACDw11 {
+    background-color: rgb(226, 227, 230);
+    border-radius: 40px;
+    color: rgb(144, 158, 152);
+    width: 160px;
+    font-size: 17px;
+}
+
+.ACDw11:hover {
+    background-color: rgb(250, 54, 104);
+    color: white;
+}
+
+.asw1AQ1 {
+    color: rgb(250, 54, 104);
+    font-size: 17px;
+}
+
+.banner-image {
+    background-image: url("../image/ps.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form-control {
+    border-radius: 9px;
+    border-color: #e2e3e6;
+    color: #9a9696;
+    font-size: 17px;
+    font-weight: 200;
+    font-family: 'IBM Plex Serif', serif;
+}
+
+.AQA1a {
+    background-color: rgb(226, 227, 230);
+    border-radius: 40px;
+    color: white;
+    width: 100%;
+    font-size: 17px;
+}
+
+.AQA1a:hover {
+    background-color: rgb(250, 54, 104);
+    color: white;
+}
+
+.wedr121Q {
+    background-color: rgb(226, 227, 230);
+}
+
+.aSAqw145{
+    background-color: rgb(246,247,250);
+}
+.ZXAqa131{
+    font-size: 29px;
+}
+
+.mbtnb .btngfd{
+    border-radius: 25px;
+    background-color: rgb(226,227,230);
+    color: rgb(161,126,115);
+    border: none;
+    width: 210px;
+    font-size: 20px;
+}
+
+.mbtnb .btngfd:hover{
+    border-radius: 25px;
+    background-color: rgb(250, 54, 104);
+    color: white;
+    border: none;
+    width: 210px;
+    font-size: 20px;
+}
+
+.sched-btn{
+    background-color: #3ecddb;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    font-size: 19px;
+    width: 220px;
+    padding: 3px;
+}
+
+.card-blog-cards{
+    border: none;
+    box-shadow: rgba(149, 157, 165, 0.2) 5px 5px 8px 0px;
+    border-bottom: none;
+    border-radius: 12px;
+}
+
+.blof-mg-ind{
+    text-decoration: none;
+    color: black;
+    font-size: 21px;
+}
+
+.read-more{
+    text-decoration: none;
+    color: #3ecddb;
+    font-size: 17px;
+}
+
+.free-btn{
+    border-radius: 25px;
+    background-color: rgb(250, 54, 104);
+    color: white;
+    border: none;
+    width: 205px;
+    font-size: 18px;
+    padding: 7px;
+}
+
+.free-btn:hover{
+    border-radius: 25px;
+    background-color: #3ecddb;
+    color: white;
+    border: none;
+    width: 205px;
+    font-size: 18px;
+    padding: 7px;
+}
+
+.navbar-brand-dr{
+    text-decoration: none;
+    color: #000;
+    font-size: 30px;
+}
+
+.icon-b .fa-brands{
+    color: rgb(250, 54, 104);
+    font-size: 30px;
+}
+
+@media only screen and (max-width: 420px) {
+    .AQ12aw {
+        text-align: center;
+    }
+}
